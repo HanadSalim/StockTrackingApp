@@ -1,0 +1,16 @@
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\StockTrackingApp.deps.json
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\StockTrackingApp.runtimeconfig.json
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\StockTrackingApp.runtimeconfig.dev.json
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\StockTrackingApp.dll
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\bin\Debug\netcoreapp2.1\StockTrackingApp.pdb
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.csprojAssemblyReference.cache
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.AssemblyInfoInputs.cache
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.AssemblyInfo.cs
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.RazorAssemblyInfo.cache
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.RazorAssemblyInfo.cs
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.RazorTargetAssemblyInfo.cache
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.dll
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.pdb
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.genruntimeconfig.cache
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\StockTrackingApp\obj\Debug\netcoreapp2.1\StockTrackingApp.csproj.CoreCompileInputs.cache
