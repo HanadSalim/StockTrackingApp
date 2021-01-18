@@ -12122,23 +12122,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Spen's Beast\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\joewa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Spen's Beast\\Desktop\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\ProducerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\joewa\\source\\repos\\Projects\\Stock Tracking Application\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\ProducerAPI.csproj",
       "projectName": "ProducerAPI",
-      "projectPath": "C:\\Users\\Spen's Beast\\Desktop\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\ProducerAPI.csproj",
-      "packagesPath": "C:\\Users\\Spen's Beast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Spen's Beast\\Desktop\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\obj\\",
+      "projectPath": "C:\\Users\\joewa\\source\\repos\\Projects\\Stock Tracking Application\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\ProducerAPI.csproj",
+      "packagesPath": "C:\\Users\\joewa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\joewa\\source\\repos\\Projects\\Stock Tracking Application\\StockTrackingApp\\StockTrackingApp\\ProducerAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Spen's Beast\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joewa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12151,8 +12147,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Spen's Beast\\Desktop\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp\\Send\\Send.csproj": {
-              "projectPath": "C:\\Users\\Spen's Beast\\Desktop\\StockTrackingApp\\StockTrackingApp\\StockTrackingApp\\Send\\Send.csproj"
+            "C:\\Users\\joewa\\source\\repos\\Projects\\Stock Tracking Application\\StockTrackingApp\\StockTrackingApp\\Send\\Send.csproj": {
+              "projectPath": "C:\\Users\\joewa\\source\\repos\\Projects\\Stock Tracking Application\\StockTrackingApp\\StockTrackingApp\\Send\\Send.csproj"
             }
           }
         }

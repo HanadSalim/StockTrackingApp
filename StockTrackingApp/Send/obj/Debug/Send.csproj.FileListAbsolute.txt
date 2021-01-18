@@ -16,7 +16,6 @@ C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\bin\Debug\System.Threading.Channels.xml
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.csprojAssemblyReference.cache
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.csproj.CoreCompileInputs.cache
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.csproj.CopyComplete
 C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.exe
@@ -44,3 +43,4 @@ C:\Users\Spen's Beast\Desktop\StockTrackingApp\StockTrackingApp\StockTrackingApp
 C:\Users\Spen's Beast\Desktop\StockTrackingApp\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.csproj.CopyComplete
 C:\Users\Spen's Beast\Desktop\StockTrackingApp\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.exe
 C:\Users\Spen's Beast\Desktop\StockTrackingApp\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.pdb
+C:\Users\joewa\source\repos\Projects\Stock Tracking Application\StockTrackingApp\StockTrackingApp\Send\obj\Debug\Send.csprojAssemblyReference.cache
