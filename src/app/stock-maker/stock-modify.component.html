@@ -1,0 +1,36 @@
+<div class='card'>
+    <div class='card-header'>
+        {{pageTitle}}
+    </div>
+    <div class ="card-body">
+        <div class="form-group">
+            <div class = "col-md-4">
+            <div>
+                <div>Company Name</div>
+                <div ><input type="text" class="form-control" [placeholder]="company.companyName" [(ngModel)] = "companyName"  aria-label="company name"></div> 
+            </div>
+            <br/>
+            <div>
+                <div>Company Shorthand</div>
+                <div><strong>{{company.companyShortHand}}</strong></div> 
+            </div>
+            <br/>
+            <div>
+                <div> Stock Price</div>
+                <div><input type="text" class="form-control" [placeholder]="company.stockPriceCurrent" [(ngModel)] = "companyStock" aria-label="First name"></div> 
+            </div>
+            <br/>
+            <div>
+                <div>% Change</div>
+                <div><pm-percent [potentialStockPrice] = 'company.stockPriceNew' [currentStockPrice] = 'company.stockPriceCurrent'></pm-percent></div> 
+            </div>
+            </div>
+                <br/>
+                <button type="button" class="btn btn-primary" [routerLink] = "['/stockmaker']">Back</button>
+                <button type="submit" class="btn btn-primary" (onClick) = 'onSave'>Save Changes</button>
+                <button type="button" class="btn btn-primary">Delete Stock</button>
+            
+        </div>
+        
+    </div>
+</div>
